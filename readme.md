@@ -34,7 +34,6 @@ field. Extensive evaluations on classification and various downstream tasks demo
 </div>
 
 > **Top**: Illustrative comparison of ConvNeXt, InceptionNeXt, and our InceptionMamba block.
-<br>
 > **Bottom**:  Performance on ImageNet-1K validation set at $224^2$
 resolutions.
 
