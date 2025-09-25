@@ -13,7 +13,7 @@ Wankou Yang<sup>4</sup>
 <sup>3</sup>School of Electrical and Information Engineering, Jiangsu University,
 <sup>4</sup> School of Automation, Southeast University
 
-Paper: ([arXiv 2401.10166](https://arxiv.org/abs/2401.10166))
+Paper: ([arXiv 2506.08735](https://arxiv.org/abs/2506.08735)
 
 > **Abstract:** Within the family of convolutional neural networks, InceptionNeXt has shown excellent competitiveness in image classification and a number of downstream tasks.
 Built on parallel one-dimensional strip convolutions, however, it su ffers from limited ability of capturing spatial dependencies along different dimensions and fails to
