@@ -148,7 +148,7 @@ CUDA_VISIBLE_DEVICES=0,1,2,3,4,5,6,7 ./tools/dist_test.sh configs/upernet/uperne
 ```
 @misc{wang2025inceptionmambaefficienthybridnetwork,
       title={InceptionMamba: An Efficient Hybrid Network with Large Band Convolution and Bottleneck Mamba}, 
-      author={Yuhang Wang and Jun Li and Zhijian Wu and Jianhua Xu},
+      author={Yuhang Wang and Jun Li and Zhijian Wu and Jifeng Shen and Jianhua Xu and Wankou Yang},
       year={2025},
       eprint={2506.08735},
       archivePrefix={arXiv},
